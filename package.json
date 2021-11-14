@@ -1,0 +1,22 @@
+{
+  "name": "novacode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniygolikov/novacode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeniygolikov/novacode/issues"
+  },
+  "homepage": "https://github.com/evgeniygolikov/novacode#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}

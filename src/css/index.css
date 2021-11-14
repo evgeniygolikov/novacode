@@ -1,0 +1,8 @@
+@import "./components/modal.css";
+@import "./components/tabs.css";
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
